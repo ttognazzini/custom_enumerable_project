@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+# this is just some extra tests and used for debugging, it doesn't really need to be included
+
 require_relative '../lib/my_enumerables'
 require 'pry-byebug'
 
